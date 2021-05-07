@@ -1,3 +1,7 @@
+/// written by Dymytriy Zyunkin
+/// tested by Dymytriy Zyunkin
+/// debugged by Dymytriy Zyunkin
+
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:grocery_locator/models/place.dart';

@@ -1,3 +1,7 @@
+/// written by Dymytriy Zyunkin
+/// tested by Dymytriy Zyunkin
+/// debugged by Dymytriy Zyunkin
+
 import 'geometry.dart';
 
 class Place {
