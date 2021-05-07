@@ -1,6 +1,6 @@
 # grocery_locator
 
-A new Flutter project.
+Part of the ECE442 project that is responsible for grocery store location. 
 
 ## Getting Started
 
